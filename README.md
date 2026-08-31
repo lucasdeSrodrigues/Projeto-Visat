@@ -1,4 +1,4 @@
-# Projeto Visat
+# Projeto VISAT
 Plataforma integrada que organiza, monitora e transforma as demandas recebidas pelo SEI em informações estratégicas para uma gestão mais eficiente da VISAT.
 
 ## Alinhamento com os ODS
