@@ -10,7 +10,13 @@ Como podemos transformar o processo de recebimento, acompanhamento e resposta à
 ## Status Atual
 O projeto está em fase inicial. Ainda não começamos a codificação, estamos focados em entender o problema e definir o produto.
 
+## Tela do board/backlog
+
+<img width="1374" height="859" alt="Captura de tela_2-9-2026_121541_trello com" src="https://github.com/user-attachments/assets/6c072ae7-5b7e-4059-94ce-e68a3ae2de0b" />
+
+
 ## Equipe
+
 - Lucas de Souza 
 - Artur Holanda 
 - Mateus de Lira 
