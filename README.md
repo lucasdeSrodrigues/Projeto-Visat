@@ -12,7 +12,7 @@ O projeto está em fase inicial. Ainda não começamos a codificação, estamos 
 
 ## Tela do board/backlog
 
-<img width="1374" height="859" alt="Captura de tela_2-9-2026_121541_trello com" src="https://github.com/user-attachments/assets/6c072ae7-5b7e-4059-94ce-e68a3ae2de0b" />
+<img width="1400" height="888" alt="Captura de tela_2-9-2026_185228_trello com" src="https://github.com/user-attachments/assets/67bf2d88-44f0-4e94-9030-f05886d7f8a4" />
 
 
 ## Equipe
