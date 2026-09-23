@@ -14,6 +14,9 @@ O projeto está em fase inicial. Ainda não começamos a codificação, estamos 
 
 <img width="1400" height="888" alt="Captura de tela_2-9-2026_185228_trello com" src="https://github.com/user-attachments/assets/67bf2d88-44f0-4e94-9030-f05886d7f8a4" />
 
+## ​💻​Prototipação
+https://www.figma.com/proto/LaXeDczTlSIBvWNcISJIjI/Sem-t%C3%ADtulo?node-id=0-1&t=gUWcxJAEMVxyasU8-1
+
 ## 🎙️​Screencast
 
 
