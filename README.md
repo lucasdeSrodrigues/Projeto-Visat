@@ -15,6 +15,10 @@ O projeto está em fase inicial. Ainda não começamos a codificação, estamos 
 
 <img width="1896" height="874" alt="Captura de tela_23-9-2026_1785_trello com" src="https://github.com/user-attachments/assets/81a99cd2-afe2-4b3f-8a2a-694b90d69669" />
 
+## 📊Diagramas das UH's
+
+https://docs.google.com/document/d/15orJypno5etlzEAVbdsAwS8dFIa5Y_99pf-MPgmJwMA/edit?usp=sharing
+
 ## ​💻​Prototipação
 https://www.figma.com/proto/LaXeDczTlSIBvWNcISJIjI/Sem-t%C3%ADtulo?node-id=0-1&t=gUWcxJAEMVxyasU8-1
 
