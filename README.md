@@ -1,4 +1,5 @@
-# ⭐Projeto VISAT
+
+# ⭐VISAT Manager
 Plataforma integrada que organiza, monitora e transforma as demandas recebidas pelo SEI em informações estratégicas para uma gestão mais eficiente da VISAT.
 
 ## 🫆Alinhamento com os ODS
@@ -12,7 +13,7 @@ O projeto está em fase inicial. Ainda não começamos a codificação, estamos 
 
 ## Tela do board/backlog
 
-<img width="1400" height="888" alt="Captura de tela_2-9-2026_185228_trello com" src="https://github.com/user-attachments/assets/67bf2d88-44f0-4e94-9030-f05886d7f8a4" />
+<img width="1896" height="874" alt="Captura de tela_23-9-2026_1785_trello com" src="https://github.com/user-attachments/assets/81a99cd2-afe2-4b3f-8a2a-694b90d69669" />
 
 ## ​💻​Prototipação
 https://www.figma.com/proto/LaXeDczTlSIBvWNcISJIjI/Sem-t%C3%ADtulo?node-id=0-1&t=gUWcxJAEMVxyasU8-1
