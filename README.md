@@ -21,7 +21,7 @@ Ainda não iniciamos a etapa de implementação, pois a prioridade atual é cons
 
 ## 📊Diagramas das UH's
 
-https://docs.google.com/document/d/15orJypno5etlzEAVbdsAwS8dFIa5Y_99pf-MPgmJwMA/edit?usp=sharing
+https://www.figma.com/board/CBjudZTIcd7CaVuHgd4o5d/Sem-t%C3%ADtulo?node-id=0-1&t=POQt2YpKTqWM5VYQ-1
 
 ## ​💻​Prototipação
 https://www.figma.com/proto/LaXeDczTlSIBvWNcISJIjI/Sem-t%C3%ADtulo?node-id=0-1&t=gUWcxJAEMVxyasU8-1
