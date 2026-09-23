@@ -8,8 +8,12 @@ Nosso projeto está alinhado principalmente com o **ODS 8 – Trabalho Decente e
 ## ❌Problema 
 Como podemos transformar o processo de recebimento, acompanhamento e resposta às demandas de vigilância em saúde do trabalhador do Recife em um fluxo digital rastreável, integrado e orientado por dados, reduzindo atrasos, retrabalho e vulnerabilidade institucional? 
 
-## 🔎Status Atual
-O projeto está em fase inicial. Ainda não começamos a codificação, estamos focados em entender o problema e definir o produto.
+## 🔎 Status Atual
+O projeto **VISAT Manager** está em fase de **imersão, definição e planejamento**.
+
+Neste momento, a equipe já avançou na compreensão do problema, na identificação das necessidades da VISAT e na estruturação da proposta da solução. Também já foram produzidos materiais como levantamento do contexto, definição do escopo inicial, histórias de usuário, protótipos de baixa fidelidade e organização do planejamento do projeto.
+
+Ainda não iniciamos a etapa de implementação, pois a prioridade atual é consolidar os requisitos, revisar o escopo, estruturar o backlog da disciplina e preparar o material do **Status Report 1**.
 
 ## Tela do board/backlog
 
